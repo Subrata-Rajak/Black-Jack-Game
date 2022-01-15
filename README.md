@@ -1,4 +1,4 @@
-# black_jack
+# Black Jack
 
 A new Flutter project.
 
